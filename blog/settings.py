@@ -25,7 +25,7 @@ SECRET_KEY = '+ojkj!!bw0ubn!_-ed^6sf&!kk4^mjt%t!7&abqx93qvpp9evp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Android>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Pentod.pythonanywhere.com']
 
 
 # Application definition
